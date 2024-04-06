@@ -1,0 +1,159 @@
+body {
+    font: 15px/1.5 arial, helvetica, sans-serif;
+    padding: 0;
+    margin:0;
+    background-color: #f4f4f4;
+}
+.containe{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    margin:0;
+    padding:0;
+}
+
+
+.dark {
+    padding:15px;
+    background: #35424a;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+header{
+    background: #35424a;
+    color:#ffffff;
+    padding-top: 30px;
+    min-height:70px;
+    border-bottom: #e8491d 3px solid;
+}
+header a {
+    color:#ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size:16px;
+}
+header li{
+    float: left;
+    display: inline;
+    padding: 20px 20px;
+}
+
+header #branding {
+    float:left;
+}
+
+header #branding h1 {
+    margin:0;
+}
+
+header nav{
+    float:right;
+    margin-top: 10px;
+}
+header .highlight a{
+    color:#cccccc;
+    font-weight: bold;
+}
+header a:hover {
+    color: #cccccc;
+    font-weight:bold;
+}
+
+header{
+    padding:20px
+}
+
+header span{
+    color: #ec3838;
+}
+
+aside#sidebar{
+    float:none;
+    width:100%;
+    margin-top: 15px;
+    padding: 5px 0;
+}
+ article#main-col{
+    float:left;
+    width:80%;
+ }
+
+ /* main-col styling */
+ #main-col {
+    font-family: arial;
+    font-weight: bold;
+    font-style: italic;
+background-image: url('images/istockphoto-1203110818-1024x1024.jpg');
+background-size: civer;
+background-position: center;
+padding-top: 3px;
+
+}
+
+#main-col h1{
+    font-weight: bold;
+    color: #351acf;
+}
+ 
+header #branding{
+    float:none;text-align:center;
+    width:100%
+}
+header nav{
+    float:none;
+    text-align: center;
+    width:100%;
+}
+header nav li{
+    float:none;
+    text-align: center;
+    width:100%;
+}
+article#main-col{
+    float:none;
+    text-align: center;
+    width:100%;
+}
+aside#sidebar{
+    float:none;
+    text-align: center;
+    width:100%;
+}
+
+#sidebar h4{
+    padding-top:3px ;
+
+}
+footer{
+    padding:20px;
+    margin-top:20px;
+    color:#ffffff;
+    background-color: #e8491d;
+    text-align: center;  
+}
+
+
+#contact a {
+    text-decoration: none;
+    color: white;
+    
+}
+#menu{
+
+  color: #e8491d;
+font-weight: bold;
+}
+
+#sidebar h3{
+
+    color: #e8491d;
+}
+
+#sidebar h4{
+    
+    color: #e8491d;
+}
